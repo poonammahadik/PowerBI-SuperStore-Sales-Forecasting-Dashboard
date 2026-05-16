@@ -1,3 +1,7 @@
+![Dashboard](Screenshot%20(190).png)
+
+![Forecasting](Screenshot%20(191).png)
+
 # Super Store Sales Forecasting Dashboard
 
 An interactive Power BI dashboard built to analyze sales 
