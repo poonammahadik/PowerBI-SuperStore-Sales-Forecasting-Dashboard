@@ -1,6 +1,6 @@
-![Dashboard](Screenshot%20(190).png)
-
 ![Forecasting](Screenshot%20(191).png)
+
+![Dashboard](Screenshot%20(190).png)
 
 # Super Store Sales Forecasting Dashboard
 
